@@ -10,7 +10,11 @@ Zhao Wen - tinyspider
 
 Maha Salman - mahasalmanc
 
-Nick Torabi - Nicktor717
+# File Locations:
+
+Jupyter Notebook containing all the coding from each group member - combined_coding.ipynb
+
+Proposal - Project 1 Proposal.pdf
 
 # References:
 
