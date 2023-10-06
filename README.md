@@ -14,7 +14,11 @@ Maha Salman - mahasalmanc
 
 Jupyter Notebook containing all the coding from each group member - combined_coding.ipynb
 
-Proposal - Project 1 Proposal.pdf
+Proposal - pdfs > Project 1 Proposal.pdf
+
+Presentation - pdfs > Project 1-Characteristics of Credit Card Defaulters.pdf
+
+Dataset - raw > application_data_cleaned_v1.csv
 
 # References:
 
